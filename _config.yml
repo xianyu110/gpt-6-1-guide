@@ -1,0 +1,21 @@
+title: "GPT-6.1 到底是什么？只有 Sol、没有 Astra 的一次\"半个版本\"升级"
+description: "GPT-6.1 目前只有 GPT-6.1 Sol：接近 Astra 的智能、五分之一价格；GPT-6.1 Astra 因安全测试未过关被叫停。一文读懂官方成绩、价格与局限。"
+url: "https://xianyu110.github.io"
+baseurl: "/gpt-6-1-guide"
+lang: zh-CN
+locale: zh_CN
+theme: jekyll-theme-cayman
+show_downloads: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+author:
+  name: Maynor
+  url: https://github.com/xianyu110
+twitter:
+  card: summary_large_image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://upload.maynor1024.live/file/1791182720683_gpt61-openai-hero.jpg
